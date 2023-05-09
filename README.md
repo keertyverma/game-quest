@@ -18,8 +18,9 @@ Game Quest is a game discovery web application.
 
 - [React](https://reactjs.org/) - JS library
 - [Typescript](https://www.typescriptlang.org/)
+- [React Query](https://tanstack.com/query/v3/) - For managing Server state
+- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) - For managing Client state
 - [Chakra UI](https://chakra-ui.com/) - Component Library
-- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) - State Management Tool
 - [Vite](https://vitejs.dev/) - Build Tool
 
 ## 📷 Screenshots:

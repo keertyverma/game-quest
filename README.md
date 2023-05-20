@@ -2,7 +2,7 @@
 
 Game Quest is a game discovery web application.
 
-- Hosted on Netlify -> [Game Quest](https://lets-game-quest.vercel.app)
+- Hosted on Vercel -> [Game Quest](https://lets-game-quest.vercel.app)
 - It access games data from the [RAWG Video Games DB API](https://api.rawg.io/docs/)
 
 ## Features
